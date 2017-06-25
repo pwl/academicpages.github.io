@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Paweł Biernat"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+name                     : &name "Paweł Biernat"
+description              : &description "mathematician & programmer"
+url                      : https://pwl.github.io
+baseurl                  : ""
+repository               : "pwl/pwl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -47,16 +47,16 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : 
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               :
 facebook:
-  username               : 
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -72,43 +72,44 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : 
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Paweł Biernat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
-  uri              : 
-  bitbucket        :
+  bio              : "A mathematician with interests in differential equations and single-cell genomics and programming"
+  location         : "Bonn"
+  employer         : "LIMES-Institute, University of Bonn"
+  googlescholar    : "https://scholar.google.com/citations?user=8qOBNEwAAAAJ"
+  email            : "pawel.biernat@gmail.com"
+  uri              :
+  bitbucket        : "pwl_b"
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "pwl"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/2550187/pwl"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : 
+  wikipedia        :
+  researchgate     : "https://www.researchgate.net/profile/Pawel_Biernat2"
 
 
 # Reading Files
@@ -237,7 +238,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -248,7 +249,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
