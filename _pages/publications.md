@@ -30,7 +30,7 @@ _Generic Self-Similar Blowup for Equivariant Wave Maps and Yang–Mills Fields i
 
 Biernat P.,
 _Non-self-similar blow-up in the heat flow for harmonic maps in higher dimensions_,
-[Nonlinearity (2014) 28.1]http://iopscience.iop.org/article/10.1088/0951-7715/28/1/167/pdf),
+[Nonlinearity (2014) 28.1](http://iopscience.iop.org/article/10.1088/0951-7715/28/1/167/pdf),
 [arXiv:1404.2209](https://arxiv.org/abs/1404.2209)
 
 Biernat P., Bizoń P.,
