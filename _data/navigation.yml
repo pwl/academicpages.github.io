@@ -1,7 +1,11 @@
 # main links links
 main:
-  - title: "Current projects"
-    url: /projects/
+
+  # - title: "Interests"
+  #   url: /interests/
+
+  # - title: "Software"
+  #   url: /projects/
 
   - title: "Publications"
     url: /publications/
