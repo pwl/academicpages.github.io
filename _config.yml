@@ -78,8 +78,8 @@ analytics:
 # Site Author
 author:
   name             : "Paweł Biernat"
-  avatar           : "profile.png"
-  bio              : "A mathematician with interests in differential equations and single-cell genomics and programming"
+  avatar           : "profile.jpeg"
+  bio              : "A mathematician with interests in differential equations, programming and genomics"
   location         : "Bonn"
   employer         : "LIMES-Institute"
   googlescholar    : "https://scholar.google.com/citations?user=8qOBNEwAAAAJ"
